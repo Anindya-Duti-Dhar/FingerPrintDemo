@@ -19,8 +19,8 @@
 
             <ImageView
                 android:id="@+id/fingerprintImageView"
-                android:layout_width="194dp"
-                android:layout_height="250dp"
+                android:layout_width="200dp"
+                android:layout_height="260dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/black_border" />

@@ -105,11 +105,15 @@ public class UserVerificationActivity  extends AppCompatActivity {
                     fingerprintImageView.setBackground(ContextCompat.getDrawable(mContext, R.drawable.red_border));
                     ResultText.setText("Does not Match!");
                     ResultText.setTextColor(getResources().getColor(R.color.holo_red_light));
+                    Username.setText("Username");
+                    UserAddress.setText("User Address");
                 }
             } else {
                 fingerprintImageView.setBackground(ContextCompat.getDrawable(mContext, R.drawable.red_border));
                 ResultText.setText("Does not Match!");
                 ResultText.setTextColor(getResources().getColor(R.color.holo_red_light));
+                Username.setText("Username");
+                UserAddress.setText("User Address");
             }
         } else makeToast("There is No User with this User Id!");
     }
