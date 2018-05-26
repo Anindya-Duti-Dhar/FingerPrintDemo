@@ -2,36 +2,4 @@
     <string name="app_name">SCI - টিপ সই</string>
     <string name="user_registration">টিপ সই নিবন্ধন</string>
     <string name="user_verification">টিপ সই সনাক্তকরণ</string>
-
-    <string name="capture">Capture</string><string name="init">Initialize</string>
-    <string name="ledon">LED</string>
-    <string name="ledoff">LED Off</string>
-    <string name="sdktest">SDK Test</string>
-    <string name="toggle_led">Toggle LED</string>
-    <string name="match">Verify</string>
-    <string name="register2">Register</string>
-    <string name="welcome">Welcome!</string>
-    <string name="cb_matched">Match</string>
-    <string name="cb_scenabled">SC En</string>
-    <string name="auto_on">Auto On</string>
-    <string name="smart_capture">Smart Capture</string>
-    <string name="smart_capture_on">Smart Cap ON</string>
-    <string name="smart_capture_off">Smart Cap OFF</string>
-    <string name="auto_on_enabled">AutoOn ON</string>
-    <string name="auto_on_disabled">AutoOn OFF</string>
-    <string name="capture_mode_n_on">Mode N ON</string>
-    <string name="capture_mode_n_off">Mode N OFF</string>
-    <string name="NFIQ_enabled">NFIQ ON</string>
-    <string name="NFIQ_disabled">NFIQ OFF</string>
-    <string name="usb_bulk_mode_64_on">USB Bulk 64 ON</string>
-    <string name="usb_bulk_mode_64_off">USB Bulk 64 OFF</string>
-    <string name="fingerprint_capture_image">Fingerprint capture image</string>
-    <string name="fingerprint_register_image">Fingerprint register image</string>
-    <string name="fingerprint_verify_image">Fingerprint verify image</string>
-    <string name="secugen_device_image">SecuGen device image</string>
-    <string name="read_serial_number">Read S/N</string>
-    <string name="set_brightness_0">Set Brightness 0</string>
-    <string name="set_brightness_100">Set Brightness 100</string>
-    <string name="log">Log</string>
-
 </resources>
