@@ -40,5 +40,5 @@ dependencies {
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
 
     // Gson converter
-    compile group: 'com.google.code.gson', name: 'gson', version: '2.7'
+    compile 'com.google.code.gson:gson:2.7'
 }
